@@ -1,0 +1,95 @@
+{
+	"version": "2.0",
+	"name": "tree4",
+	"description": "",
+	"points": 1415908,
+	"projection": "",
+	"hierarchy": {
+		"firstChunkSize": 6072, 
+		"stepSize": 4, 
+		"depth": 7
+	},
+	"offset": [-10.814, -22.968, 99.311999999999998],
+	"scale": [0.001, 0.001, 0.001],
+	"spacing": 0.13819531250000006,
+	"boundingBox": {
+		"min": [-10.814, -22.968, 99.311999999999998], 
+		"max": [6.8750000000000071, -5.2789999999999928, 117.001]
+	},
+	"encoding": "DEFAULT",
+	"attributes": [
+		{
+			"name": "position",
+			"description": "",
+			"size": 12,
+			"numElements": 3,
+			"elementSize": 4,
+			"type": "int32",
+			"min": [-10.814, -22.968, 99.311999999999998],
+			"max": [-1.24, -13.692, 117.001]
+		},{
+			"name": "intensity",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "return number",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [1]
+		},{
+			"name": "number of returns",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [1]
+		},{
+			"name": "classification",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "scan angle rank",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "user data",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "point source id",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [0],
+			"max": [0]
+		}
+	]
+}
